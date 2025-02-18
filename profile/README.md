@@ -6,7 +6,7 @@
 Welcome to the official GitHub profile of the **Center of Specialty Innovation (COSI)**, formerly known as the Bangkok University - Multimedia Intelligent Technology Lab (BUMIT). Established in 2012, we are a multidisciplinary research center dedicated to exploring the vast possibilities of multimedia applications and AI technologies across various domains.
 
 ## 🌟 Our Vision
-At COSI, our vision is to conduct applied research that pushes the boundaries of innovation. We leverage multimedia and AI technologies to transform industries and improve the quality of life. Our primary focus areas include:
+At COSI, our vision is to conduct applied research that pushes the boundaries of innovation. We leverage multimedia and AI technologies to transform industries and improve the quality of life. Our primary focus areas include
 
 - **Education** 📚
 - **Medicine** ⚕️
@@ -19,13 +19,13 @@ Our research projects bridge the gap between academia and industry, ensuring tha
 <!--- ![Research Collaboration](https://example.com/research_collaboration.jpg) -->
 
 ## 📖 Explore Our Work
-We invite you to explore our GitHub repositories, where you can find:
+We invite you to explore our GitHub repositories, where you can find
 
 - **Ongoing Research Projects** 🔬
 - **Publications** 📄
 - **Achievements and Awards** 🏆
 
-Feel free to check out our [website](https://cosi.bu.ac.th/projects) for more information about our work and to get in touch with us.
+Feel free to check out our [website](https://cosi.bu.ac.th) for more information about our work and to get in touch with us.
 
 ## 🤝 Get Involved
 If you're interested in collaborating or learning more about our work, please don't hesitate to reach out. We're always looking for passionate individuals and organizations to join us on our journey of innovation.
